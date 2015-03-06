@@ -1,2 +1,3 @@
 # Encoding-Presets
-All commonly used encoding presets in Azuer Media Services 
+
+The VoD folder contains the encoding presets for encoders that are supported by Azure Media Services. 
