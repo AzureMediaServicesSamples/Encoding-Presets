@@ -1,3 +1,3 @@
 # Encoding-Presets
 
-The VoD folder contains the encoding presets for encoders that are supported by Azure Media Services. 
+You can find encoding presets [here](https://github.com/Azure/azure-media-services-samples/tree/master/Encoding%20Presets/VoD).
